@@ -1,0 +1,12 @@
+*   884d2e2 Scalanie galeci i konfloiit readme
+|\  
+| * 25adb49 dodano jedno zdanie dotyczące konfliktu
+| * 220c695 Pliki z ls, status i log dla gałęzi test
+* | 3afb47a dodano jedno zdanie
+* | 30fdbe6 dopisane jedno zdanie na koncu
+|/  
+* 634aa84 Pliki z ls, status i log dla gałęzi test
+* 0c1b90e Dodano plik README.md z opisem projektu
+* 78b2c85 Dodano pliki status3 i restore
+* 6934219 Dodano pliki statusu
+* 838b89a dodano GIT_1_idea.txt
