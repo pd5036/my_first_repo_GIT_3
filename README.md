@@ -5,3 +5,4 @@ Numer sluchacza: pd5036
 "Praca z galeziami i rozwiazywanie konfliktów"
 
 
+"Praca z gaˆ©ziami i rozwi¥zywanie konfliktow" 
