@@ -1,21 +1,23 @@
-C:\Users\defaultuser0.DESKTOP-9B20QHN\my_first_repo_GIT_3>git status
 On branch test
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   README.md
+
 Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
+  (use "git add/rm <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-        modified:   GIT_2_version.txt
-        modified:   GIT_4_status2.txt
+	modified:   GIT_2_version.txt
+	modified:   GIT_4_status2.txt
+	deleted:    GIT_7_log.txt
+	modified:   GIT_7_ls.txt
+	modified:   GIT_7_status.txt
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-        GIT_1_idea.txt
-        GIT_5_diff.txt
-        GIT_6_log.txt
-        GIT_6_log_online.txt
-        GIT_6_log_show.txt
-        GIT_7_log.txt
-        GIT_7_ls.txt
-        GIT_7_status.txt
-        Hello-World/
+	GIT_1_idea.txt
+	GIT_5_diff.txt
+	GIT_6_log.txt
+	GIT_6_log_online.txt
+	GIT_6_log_show.txt
+	Hello-World/
 
-no changes added to commit (use "git add" and/or "git commit -a")
