@@ -1,4 +1,7 @@
 Przedmiot: Podstawy systemu kontroli wersji
-Repozytorium: my_first_repo_GIT_3 / Hello-World
-Imiƒô i nazwisko: ≈Åukasz KRZOWSKI
-Numer s≈Çuchacza: pd5036
+Repozytorium: my\_first\_repo\_GIT\_3 / Hello-World
+ImiÍ i nazwisko: Lukasz KRZOWSKI
+Numer sluchacza: pd5036
+"Praca z galeziami i rozwiazywanie konfliktÛw"
+
+
