@@ -1,7 +1,29 @@
-C:\Users\defaultuser0.DESKTOP-9B20QHN\my_first_repo_GIT_3>git log --oneline --graph
-* 0c1b90e (HEAD -> test, master) Dodano plik README.md z opisem projektu
-* 78b2c85 Dodano pliki status3 i restore
-* 6934219 Dodano pliki statusu
-* 838b89a dodano GIT_1_idea.txt
+commit 634aa84bf3b4df29f0f8091a1b3d65709cab62bf
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 13:56:07 2025 +0100
 
-C:\Users\defaultuser0.DESKTOP-9B20QHN\my_first_repo_GIT_3>
+    Pliki z ls, status i log dla gałęzi test
+
+commit 0c1b90e8aa35ffdf09ca067c9023b3e1def78c42
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:57:28 2025 +0100
+
+    Dodano plik README.md z opisem projektu
+
+commit 78b2c854e338649c2917a88a218395957095b5e7
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:52:47 2025 +0100
+
+    Dodano pliki status3 i restore
+
+commit 69342194ce7d5c83afb5603bf706310b41786b1f
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:47:42 2025 +0100
+
+    Dodano pliki statusu
+
+commit 838b89af14cb40de5c4452e2e7b1ba2ad5ad2ab0
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:42:24 2025 +0100
+
+    dodano GIT_1_idea.txt
