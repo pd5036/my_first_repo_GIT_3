@@ -1,0 +1,44 @@
+978d3cc HEAD@{0}: commit: reset --hard HEAD~1
+5c5b5ab HEAD@{1}: reset: moving to HEAD~1
+80e040f HEAD@{2}: commit: historii do GIT_9_log.txt
+5c5b5ab HEAD@{3}: commit: zapis log po cherry-pick
+6048e32 HEAD@{4}: cherry-pick: log galezi test przed cherry-pick
+63c2036 HEAD@{5}: checkout: moving from test to master
+9c6eac2 HEAD@{6}: commit: log galezi test przed cherry-pick
+7f92e58 HEAD@{7}: checkout: moving from master to test
+63c2036 HEAD@{8}: commit: log po rebase
+ac41a8e HEAD@{9}: rebase (finish): returning to refs/heads/master
+ac41a8e HEAD@{10}: rebase (start): checkout HEAD~2
+ac41a8e HEAD@{11}: rebase (finish): returning to refs/heads/master
+ac41a8e HEAD@{12}: rebase (start): checkout HEAD~2
+ac41a8e HEAD@{13}: commit: stan repozytorium
+c699a02 HEAD@{14}: commit: zapis zmian po stash pop
+9f5e249 HEAD@{15}: merge test: Merge made by the 'ort' strategy.
+cb90039 HEAD@{16}: checkout: moving from test to master
+7f92e58 HEAD@{17}: commit: diff miedzy dwoma ostatnimi commitami
+25adb49 HEAD@{18}: checkout: moving from test to test
+25adb49 HEAD@{19}: checkout: moving from master to test
+cb90039 HEAD@{20}: commit: utworzenie plików GIT_branch, status, stash
+b1fb2bd HEAD@{21}: reset: moving to HEAD
+b1fb2bd HEAD@{22}: checkout: moving from master to master
+b1fb2bd HEAD@{23}: commit: zapisałem dane do pliku GIT_7_branch.txt
+884d2e2 HEAD@{24}: commit (merge): Scalanie galeci i konfloiit readme
+3afb47a HEAD@{25}: checkout: moving from test to master
+25adb49 HEAD@{26}: commit: dodano jedno zdanie dotyczące konfliktu
+220c695 HEAD@{27}: checkout: moving from master to test
+3afb47a HEAD@{28}: commit: dodano jedno zdanie
+30fdbe6 HEAD@{29}: checkout: moving from test to master
+220c695 HEAD@{30}: commit: Pliki z ls, status i log dla gałęzi test
+634aa84 HEAD@{31}: checkout: moving from test to test
+634aa84 HEAD@{32}: checkout: moving from master to test
+30fdbe6 HEAD@{33}: commit: dopisane jedno zdanie na koncu
+634aa84 HEAD@{34}: merge test: Fast-forward
+0c1b90e HEAD@{35}: checkout: moving from test to master
+634aa84 HEAD@{36}: checkout: moving from master to test
+0c1b90e HEAD@{37}: checkout: moving from test to master
+634aa84 HEAD@{38}: commit: Pliki z ls, status i log dla gałęzi test
+0c1b90e HEAD@{39}: checkout: moving from master to test
+0c1b90e HEAD@{40}: commit: Dodano plik README.md z opisem projektu
+78b2c85 HEAD@{41}: commit: Dodano pliki status3 i restore
+6934219 HEAD@{42}: commit: Dodano pliki statusu
+838b89a HEAD@{43}: commit (initial): dodano GIT_1_idea.txt
