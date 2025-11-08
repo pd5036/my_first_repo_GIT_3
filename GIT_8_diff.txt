@@ -1,0 +1,9 @@
+diff --git a/README.md b/README.md
+index b8e7d5c..df432c0 100644
+--- a/README.md
++++ b/README.md
+@@ -2,3 +2,4 @@ Przedmiot: Podstawy systemu kontroli wersji
+ Repozytorium: my_first_repo_GIT_3 / Hello-World
+ Imię i nazwisko: Łukasz KRZOWSKI
+ Numer słuchacza: pd5036"Tym wpisem chcemy spowodowac konflikt" 
++"Tym wpisem chcemy spowodowac konflikt" 
