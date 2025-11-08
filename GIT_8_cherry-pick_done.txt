@@ -1,0 +1,21 @@
+* 6048e32 log galezi test przed cherry-pick
+* 63c2036 log po rebase
+* ac41a8e stan repozytorium
+* c699a02 zapis zmian po stash pop
+*   9f5e249 Merge branch 'test'
+|\  
+| * 7f92e58 diff miedzy dwoma ostatnimi commitami
+* | cb90039 utworzenie plików GIT_branch, status, stash
+* | b1fb2bd zapisałem dane do pliku GIT_7_branch.txt
+* | 884d2e2 Scalanie galeci i konfloiit readme
+|\| 
+| * 25adb49 dodano jedno zdanie dotyczące konfliktu
+| * 220c695 Pliki z ls, status i log dla gałęzi test
+* | 3afb47a dodano jedno zdanie
+* | 30fdbe6 dopisane jedno zdanie na koncu
+|/  
+* 634aa84 Pliki z ls, status i log dla gałęzi test
+* 0c1b90e Dodano plik README.md z opisem projektu
+* 78b2c85 Dodano pliki status3 i restore
+* 6934219 Dodano pliki statusu
+* 838b89a dodano GIT_1_idea.txt
