@@ -1,0 +1,2 @@
+Na ekranie wtykonao najpierw polecenie gitlog, które wyświetliło historię commit w rezpozytrium. W kojelności od góry: dodano plik nowy_plik.txt, potem został edytowany, a następnie dodano plik drugi_plik.txt.
+Następnie użyto git diff aby porównac pierwszy i ostatni commit. Wynik wskazuje ze pomiedzy commitami pojawił sie nowy plik drugi_plik.txt w którym zapisano teskt "Lorem..." a także w pliku nowy_plik.txt został zapisana jedna linia "hello world"

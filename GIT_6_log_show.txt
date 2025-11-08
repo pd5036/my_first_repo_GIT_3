@@ -1,0 +1,20 @@
+C:\Users\defaultuser0.DESKTOP-9B20QHN\my_first_repo_GIT_3>git show
+commit 0c1b90e8aa35ffdf09ca067c9023b3e1def78c42 (HEAD -> master)
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:57:28 2025 +0100
+
+    Dodano plik README.md z opisem projektu
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..e0a7198
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,4 @@
++Przedmiot: Podstawy systemu kontroli wersji
++Repozytorium: my_first_repo_GIT_3 / Hello-World
++Imię i nazwisko: Łukasz KRZOWSKI
++Numer słuchacza: pd5036
+\ No newline at end of file
+
+C:\Users\defaultuser0.DESKTOP-9B20QHN\my_first_repo_GIT_3>

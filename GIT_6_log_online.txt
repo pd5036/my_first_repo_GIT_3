@@ -1,0 +1,7 @@
+C:\Users\defaultuser0.DESKTOP-9B20QHN\my_first_repo_GIT_3>git log --oneline
+0c1b90e (HEAD -> master) Dodano plik README.md z opisem projektu
+78b2c85 Dodano pliki status3 i restore
+6934219 Dodano pliki statusu
+838b89a dodano GIT_1_idea.txt
+
+C:\Users\defaultuser0.DESKTOP-9B20QHN\my_first_repo_GIT_3>
