@@ -1,0 +1,115 @@
+commit 5c5b5abbed3689ed5b81b443f84d7a931baec708
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Sat Nov 8 23:41:43 2025 +0100
+
+    zapis log po cherry-pick
+
+commit 6048e324ff7b3a750425e4bf3bdfbb539e698a81
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Sat Nov 8 23:37:21 2025 +0100
+
+    log galezi test przed cherry-pick
+
+commit 63c2036d820b7dded6c03b27991de79e694eb8b1
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Sat Nov 8 23:30:10 2025 +0100
+
+    log po rebase
+
+commit ac41a8e1ca7c330364afb1c0395c70a1786f6078
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Sat Nov 8 23:18:40 2025 +0100
+
+    stan repozytorium
+
+commit c699a0236fb65be8319da466505f7ba383d743d8
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Sat Nov 8 23:16:39 2025 +0100
+
+    zapis zmian po stash pop
+
+commit 9f5e2492affc6a97336cc846872f0422a67cb636
+Merge: cb90039 7f92e58
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Sat Nov 8 23:03:56 2025 +0100
+
+    Merge branch 'test'
+
+commit 7f92e58bcdea154a98ee45f8a260df10a465ea8c
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Sat Nov 8 23:03:23 2025 +0100
+
+    diff miedzy dwoma ostatnimi commitami
+
+commit cb90039d431933693a09b3c6cc6a53bbfde51d59
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 22:29:25 2025 +0100
+
+    utworzenie plików GIT_branch, status, stash
+
+commit b1fb2bdc6b0f75df16b005f053013a65d397db12
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 14:54:29 2025 +0100
+
+    zapisałem dane do pliku GIT_7_branch.txt
+
+commit 884d2e221c7c007cd635e0d47c87ee15c30c5d5c
+Merge: 3afb47a 25adb49
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 14:51:05 2025 +0100
+
+    Scalanie galeci i konfloiit readme
+
+commit 25adb493f322f88fb253ab2d7452f6f408f25933
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 14:33:34 2025 +0100
+
+    dodano jedno zdanie dotyczące konfliktu
+
+commit 3afb47abc29c49d02a373e70daffbc2ed44dd072
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 14:30:12 2025 +0100
+
+    dodano jedno zdanie
+
+commit 220c6958066452f1ba315c8196c5fdf5a163e8d1
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 14:26:41 2025 +0100
+
+    Pliki z ls, status i log dla gałęzi test
+
+commit 30fdbe6dd6bb18c180c35da524871793cdde9fa6
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 14:12:53 2025 +0100
+
+    dopisane jedno zdanie na koncu
+
+commit 634aa84bf3b4df29f0f8091a1b3d65709cab62bf
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Fri Nov 7 13:56:07 2025 +0100
+
+    Pliki z ls, status i log dla gałęzi test
+
+commit 0c1b90e8aa35ffdf09ca067c9023b3e1def78c42
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:57:28 2025 +0100
+
+    Dodano plik README.md z opisem projektu
+
+commit 78b2c854e338649c2917a88a218395957095b5e7
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:52:47 2025 +0100
+
+    Dodano pliki status3 i restore
+
+commit 69342194ce7d5c83afb5603bf706310b41786b1f
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:47:42 2025 +0100
+
+    Dodano pliki statusu
+
+commit 838b89af14cb40de5c4452e2e7b1ba2ad5ad2ab0
+Author: lukasz <lukasz.krzowski@gmail.com>
+Date:   Tue Nov 4 22:42:24 2025 +0100
+
+    dodano GIT_1_idea.txt
