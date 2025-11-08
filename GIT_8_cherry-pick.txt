@@ -1,0 +1,8 @@
+* 7f92e58 diff miedzy dwoma ostatnimi commitami
+* 25adb49 dodano jedno zdanie dotyczące konfliktu
+* 220c695 Pliki z ls, status i log dla gałęzi test
+* 634aa84 Pliki z ls, status i log dla gałęzi test
+* 0c1b90e Dodano plik README.md z opisem projektu
+* 78b2c85 Dodano pliki status3 i restore
+* 6934219 Dodano pliki statusu
+* 838b89a dodano GIT_1_idea.txt
