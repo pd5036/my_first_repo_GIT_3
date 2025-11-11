@@ -4,7 +4,7 @@ Repozytorium: my\_first\_repo\_GIT\_3 / Hello-World
 Imię i nazwisko: **Lukasz KRZOWSKI**
 *Numer sluchacza: pd5036*
 - data: 2024-11-09
-- godzina: 12:00
+
 ```bash
 git init
 "Praca z galeziami i rozwiazywanie konfliktów"
